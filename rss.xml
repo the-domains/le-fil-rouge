@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[le-fil-rouge]]></title>
         <description><![CDATA[le-fil-rouge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/le-fil-rouge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:34:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 11:37:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/le-fil-rouge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee0add5-9cc8-430c-bfa7-d61058946272.jpg" alt="Oh Yeah!" title="">]]></description>
-            <link>undefined3d654cad-4846-40ee-a005-47077e863308/index.html</link>
+            <link>https://thegrid.ai/le-fil-rouge/3d654cad-4846-40ee-a005-47077e863308/index.html</link>
             <guid isPermaLink="false">3d654cad-4846-40ee-a005-47077e863308</guid>
-            <pubDate>Sun, 17 Jan 2016 11:34:45 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 11:37:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
