@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[le-fil-rouge]]></title>
-        <description><![CDATA[le-fil-rouge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[le fil rouge]]></title>
+        <description><![CDATA[le fil rouge]]></description>
+        <link>https://thegrid.ai/le-fil-rouge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 11:46:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 11:50:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/le-fil-rouge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee0add5-9cc8-430c-bfa7-d61058946272.jpg" alt="Oh Yeah!" title="">]]></description>
-            <link>undefined3d654cad-4846-40ee-a005-47077e863308/index.html</link>
+            <link>https://thegrid.ai/le-fil-rouge/3d654cad-4846-40ee-a005-47077e863308/index.html</link>
             <guid isPermaLink="false">3d654cad-4846-40ee-a005-47077e863308</guid>
             <pubDate>Mon, 18 Jan 2016 11:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc022142-5ffb-45bc-b4a7-4c441f88ef55.jpg">]]></description>
+            <link>https://thegrid.ai/le-fil-rouge/76731af9-b3f8-48a6-8dc3-d8c7553d4c44/index.html</link>
+            <guid isPermaLink="false">76731af9-b3f8-48a6-8dc3-d8c7553d4c44</guid>
+            <pubDate>Mon, 18 Jan 2016 11:49:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
