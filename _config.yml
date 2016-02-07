@@ -1,29 +1,41 @@
-name: le-fil-rouge
-favicon: null
-layout_spectrum: 0.5633444890845567
-typography_spectrum: 0.02785675204358995
 title: le fil rouge
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.2361702
+favicon: null
+name: le-fil-rouge
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.0106161879375577
+  saturation: 0.9632168395910412
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.010616187937557697
   lightness: 0.7903528064489365
-  saturation: 0.9632168395910412
   rhythmicContrast: 0.9760460387915373
-purpose: []
+typography_spectrum: 0.02785675204358995
