@@ -1,30 +1,7 @@
-typography_spectrum: 0.2574468
-color:
-  brandStrength: 0.3340425
-  lightness: 1
-  saturation: 0.8212766
-  rhythmicContrast: 1
-  brandColors:
-    - '#FEFFFF'
-    - '#BD0E13'
-    - '#2D2118'
-    - '#78572B'
-    - '#F8C780'
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.9191489
-analytics:
-  facebook: null
-  google: null
-  twitter: null
 name: le-fil-rouge
-cta:
-  domain: null
-  version: null
-  bucket: null
 favicon: null
+layout_spectrum: 0.9191489
+typography_spectrum: 0.2574468
 collections:
   - index:
       navigable: true
@@ -39,4 +16,27 @@ collections:
       path: '/:title/'
 title: le fil rouge
 description: 'C''est un fil, il est rouge.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FEFFFF'
+    - '#BD0E13'
+    - '#2D2118'
+    - '#78572B'
+    - '#F8C780'
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
